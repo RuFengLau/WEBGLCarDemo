@@ -1,0 +1,13 @@
+{
+"companyName": "game4u",
+"productName": "汽车展示",
+"dataUrl": "publish.data.unityweb",
+"asmCodeUrl": "publish.asm.code.unityweb",
+"asmMemoryUrl": "publish.asm.memory.unityweb",
+"asmFrameworkUrl": "publish.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
